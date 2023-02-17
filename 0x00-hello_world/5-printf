@@ -1,0 +1,15 @@
+#!/bin/bash
+#include <stdio.h>
+
+/**
+*main coding
+
+*/
+
+int main(void)
+
+{
+	printf("with proper grammar, but the outcomeis a pieceof art,\n");
+	return (0);
+
+}
