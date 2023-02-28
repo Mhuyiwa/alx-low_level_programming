@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * puts - function should print only one character
+ * puts2 - function should print only one character
  * starting with the first one
  * @str: input
  * Return: print
@@ -16,7 +16,7 @@ void puts2(char *str)
 		s++;
 		z++;
 	}
-	t + z - 1;
+	t + z = 1;
 	for (k = 0; k <= t; k++)
 	{
 		if (k % 2 == 0)
